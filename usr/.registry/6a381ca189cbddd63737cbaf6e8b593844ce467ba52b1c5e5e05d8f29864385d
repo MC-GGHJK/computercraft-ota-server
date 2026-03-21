@@ -1,0 +1,12 @@
+{
+  title = "Sniffer",
+  category = "Apps",
+  icon = "07    07 \
+     07 \
+07     07 ",
+  iconExt = "  ÄÄÄÄ5ï5 ö 5â\
+4 ü4ÄÄ ê5Ç5 õå\
+4ó4fîf4ó4fî  ÄÄÄ",
+  run = "Sniff.lua",
+  key = "6a381ca189cbddd63737cbaf6e8b593844ce467ba52b1c5e5e05d8f29864385d",
+}

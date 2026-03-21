@@ -1,0 +1,7 @@
+{
+  colors = {
+    primary = 512,
+    tertiary = 128,
+    secondary = 256,
+  },
+}

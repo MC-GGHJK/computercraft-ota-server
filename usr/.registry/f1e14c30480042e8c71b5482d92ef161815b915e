@@ -1,0 +1,12 @@
+{
+  title = "DiskCopy",
+  category = "System",
+  icon = "7     f7  \
+7  d f  \
+7     f7  ",
+  iconExt = "58ä3ü57Ö 5î Ä8óÅ\
+05ïb8äè7Ö bî8 å 8ë\
+  Ä0bï0ÄÄ bï8ùÖ",
+  run = "DiskCopy",
+  key = "f1e14c30480042e8c71b5482d92ef161815b915e",
+}

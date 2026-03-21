@@ -1,0 +1,17 @@
+{
+  upgraded = 1,
+  path = "/usr/apps",
+  lua_path = "?.lua;?/init.lua;/usr/modules/?.lua;/usr/modules/?/init.lua;/rom/modules/main/?;/rom/modules/main/?.lua;/rom/modules/main/?/init.lua;/sys/modules/?.lua;/sys/modules/?/init.lua",
+  aliases = {
+    rm = "delete",
+    dir = "list",
+    clr = "clear",
+    sh = "shell",
+    ls = "list",
+    background = "bg",
+    foreground = "fg",
+    cp = "copy",
+    mv = "move",
+    rs = "redstone",
+  },
+}

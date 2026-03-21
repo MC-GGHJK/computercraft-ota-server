@@ -1,0 +1,9 @@
+{
+  title = "Data",
+  category = "CCEmuX",
+  icon = "87  7 8 \
+87 7 8  \
+87    ",
+  run = "emu data",
+  key = "cec3a9b89b2e391393d0f68e4bc12a9fa6cf358b3cdf79496dc442d52b8dd528",
+}

@@ -1,0 +1,12 @@
+{
+  title = "Editor",
+  category = "Apps",
+  icon = "07    \
+07  \
+07     ",
+  iconExt = "7\
+¨¨¨¨f0¨\
+¨¨f0¨¨f",
+  run = "edit",
+  key = "464c4ffd019e1e9691dcf0537c797353ef2b1c1d4833d3d463e5b74ae4547344",
+}

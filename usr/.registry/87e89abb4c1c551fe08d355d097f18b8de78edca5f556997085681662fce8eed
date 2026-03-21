@@ -1,0 +1,9 @@
+{
+  title = "Config",
+  category = "CCEmuX",
+  icon = "07     07 \
+07    \
+     07 ",
+  run = "emu config",
+  key = "87e89abb4c1c551fe08d355d097f18b8de78edca5f556997085681662fce8eed",
+}

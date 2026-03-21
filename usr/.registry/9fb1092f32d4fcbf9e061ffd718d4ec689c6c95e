@@ -1,0 +1,13 @@
+{
+  icon = "17 3   1 \
+17 3   1 \
+17 3   1 ",
+  title = "Recipes",
+  category = "Apps",
+  filename = "usr/.registry/9fb1092f32d4fcbf9e061ffd718d4ec689c6c95e",
+  iconExt = "d ‡ƒ7d›d ‚ d\
+0d‚d07‰0dŸ‡ƒ\
+ ‚‡ƒ €",
+  run = "recipeBook",
+  key = "9fb1092f32d4fcbf9e061ffd718d4ec689c6c95e",
+}

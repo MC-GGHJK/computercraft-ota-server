@@ -1,0 +1,12 @@
+{
+  title = "Othello",
+  category = "Games",
+  icon = "07   \
+   07  \
+07  ",
+  iconExt = "  €d—d€f ƒƒ\
+d —0dŸdf‚0d™f‹d0„f„ d…\
+ dƒƒdfd€ … €",
+  run = "Othello",
+  key = "f6a5201214fb1981e6d46a39303bb676325eb59b-ME2",
+}

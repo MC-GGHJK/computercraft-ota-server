@@ -1,0 +1,20 @@
+{
+  standard = {
+    tabBarBackgroundColor = 128,
+    focusBackgroundColor = 128,
+    errorColor = 32768,
+    focusTextColor = 1,
+    tabBarTextColor = 256,
+    backgroundColor = 128,
+    textColor = 256,
+  },
+  color = {
+    tabBarBackgroundColor = 128,
+    focusBackgroundColor = 128,
+    errorColor = 16384,
+    focusTextColor = 1,
+    tabBarTextColor = 256,
+    backgroundColor = 128,
+    textColor = 256,
+  },
+}

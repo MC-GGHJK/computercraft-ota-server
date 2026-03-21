@@ -1,0 +1,9 @@
+{
+  title = "Write",
+  category = "Apps",
+  icon = "07     \
+    07 \
+    07 ",
+  run = "write",
+  key = "3f00927a719345edd4a8316599d3b328857987547f8884306861161ffa09647e",
+}

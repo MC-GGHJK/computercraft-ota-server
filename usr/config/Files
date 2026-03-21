@@ -1,0 +1,9 @@
+{
+  showHidden = true,
+  associations = {
+    txt = "edit",
+    nft = "pain",
+    ota = "update-ota",
+  },
+  showDirSizes = true,
+}

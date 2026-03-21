@@ -1,0 +1,9 @@
+{
+  title = "Ascii",
+  category = "Apps",
+  icon = "07     \
+07    f7  0 \
+07     ",
+  run = "ascii",
+  key = "c543ece81605c7d202121c62080a0db4020fc2c75bfac35d101d7f3e93c93949",
+}

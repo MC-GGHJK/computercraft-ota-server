@@ -1,0 +1,12 @@
+{
+  title = "Partition",
+  category = "System",
+  icon = "87  7 8  \
+87  7 8  \
+87  7 8  ",
+  iconExt = "77€0‡ƒ‹7€€€\
+07•0€7‘08Œ7\
+77€0‹‡7€8…",
+  run = "Partition",
+  key = "4dbdd221e957eff27cc47796f3ed8447290f71c7ad8b95e5bd828b31c1858f15",
+}

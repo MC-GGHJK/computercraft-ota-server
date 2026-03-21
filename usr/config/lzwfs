@@ -1,0 +1,9 @@
+{
+  enabled = false,
+  installed = false,
+  filters = {
+    "packages/",
+    "sys/",
+    "usr/config/",
+  },
+}

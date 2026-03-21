@@ -1,0 +1,12 @@
+{
+  title = "Sounds",
+  category = "System",
+  icon = "e7     e7 \
+   e7     e7 \
+e7     e7 ",
+  iconExt = "  €7Ÿ 7•00 › 0‰\
+77€€€ •0 • €0•0 •\
+  €7‚7  7•0†˜",
+  run = "SoundPlayer",
+  key = "fb1c39e9f4f3c2628ad173ab401a6e4e4baf783d",
+}

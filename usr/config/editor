@@ -1,0 +1,15 @@
+{
+  filename = "blittle",
+  recent = {
+    "blittle",
+    ".cash_history",
+    "sys/apps/Files.lua",
+    "sys/apps/update-ota.lua",
+    "sys/etc/fstab",
+    "sys/apps/pain.lua",
+    "sys/apps/shell.lua",
+    "sys/apps/trust.lua",
+    "sys/apps/cloud.lua",
+    "sys/apps/update.lua",
+  },
+}

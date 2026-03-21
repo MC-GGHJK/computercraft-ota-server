@@ -1,0 +1,12 @@
+{
+  title = "Events",
+  category = "System",
+  icon = "7  c f  \
+7 d   f \
+7  c f  ",
+  iconExt = "0 Ÿ‡ 0œ1 Ÿ 10 “‹ 0\
+0€€ •10 •0€€\
+ ‚‹1‚ƒ0‡",
+  run = "Events.lua",
+  key = "c5497bca58468ae64aed6c0fd921109217988db3",
+}

@@ -1,0 +1,13 @@
+{
+  filename = "usr/.registry/0a999012ffb87b3edac99adbdfc498b12831a1e2",
+  title = "Packages",
+  category = "System",
+  key = "0a999012ffb87b3edac99adbdfc498b12831a1e2",
+  iconExt = "c7—ƒƒƒ7c”\
+c7—ƒ07ƒ7c”\
+7cŠ 7—ƒƒƒ",
+  icon = "c7     \
+c7 1   c \
+17     ",
+  run = "PackageManager.lua",
+}

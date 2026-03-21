@@ -4,7 +4,7 @@ Toto je upravená verze opus os pro GGHJK server.
 
 Originální OS: https://github.com/kepler155c/opus
 
-Nepožívejte
+Nepoužívejte
 
 Děkujeme [kepler155c](https://github.com/kepler155c)
 
